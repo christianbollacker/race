@@ -1,0 +1,3 @@
+horserace.html contains a script that runs a race between three horses: California Chrome, Seabiscuit, and Seattle Slew.  Each horse has varying degrees of speed and stamina.  I wrote in a method for the Horse constructor that valued stamina more and speed less as the race went on.  I called this function raceSpeed.  To add an element of randomness I used Math.random in my raceMojo function so the results would vary race to race.  I check the status of the horses 3 times throughout the race and it is fun to see the positions change throughout.  The final results vary enough to make each race feel random and exciting.
+
+I used the turtle and rabbit script from class as the basis of my script.  
